@@ -11,10 +11,27 @@
 - 👯 I’m looking to collaborate on **Cloud Projects**
 
 - 💬 Ask me about **DevOps, Cloud computing GCP, Web Development, Azure, AWS. Docker**
+-  I’m currently working on Yolo , where I'm responsible for building and maintaining the CI/CD pipeline using tools such as Jenkins, GitLab CI/CD, and AWS CodePipeline.
+-  🌱 I'm constantly learning and exploring new tools and technologies related to DevOps, such as containerization with Docker and Kubernetes, infrastructure automation with Terraform, and monitoring and logging with ELK stack and Prometheus.
+
+💬 I'm always open to collaborating on new projects and discussing best practices in DevOps and software development. Feel free to reach out to me at [Your Email Address].
+
 
 - 📫 How to reach me **tabbie440@gmail.com**
 
 - ⚡ Fun fact **It is impossible for most people to lick their own elbow.**
+
+👨‍💻 My skills include:
+- Proficiency in scripting languages like Bash and Python
+- Experience with infrastructure-as-code tools such as Terraform and CloudFormation
+- Knowledge of configuration management tools like Ansible and Chef
+- Familiarity with containerization technologies like Docker and Kubernetes
+- Expertise in CI/CD pipeline tools like Jenkins, GitLab CI/CD, and AWS CodePipeline
+- Understanding of monitoring and logging tools like ELK stack and Prometheus
+- Strong understanding of Agile methodologies and software development best practices
+
+🤝 Let's connect and work together to build efficient and scalable software development pipelines!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
